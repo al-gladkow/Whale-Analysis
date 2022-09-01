@@ -37,8 +37,6 @@ The instructions for this assignment are divided into three parts:
     
 5.  Join `Whale Returns`, `Algorithmic Returns`, and the `S&P 500 Returns` into a single DataFrame with columns for each portfolio's returns.
     
-    ![returns-dataframe.png](/courses/1571/files/1748916/download)
-    
 
 #### Perform Quantitative Analysis
 
